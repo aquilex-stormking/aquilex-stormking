@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aquilex-stormking" alt="aquilex-stormking" /></a> </p>
 
-- 🔭 I’m currently working on [Buys](intranet.augetotal.com)
+- 🔭 I’m currently working on [Buys](https://intranet.augetotal.com)
 
 - 🌱 I’m currently learning **English**
 
