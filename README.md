@@ -11,6 +11,8 @@
 
 - 👯 I’m looking to collaborate on [Page with avanza empleo](https://www.avanzaempleo.com.co)
 
+-  This is mi CV https://drive.google.com/file/d/1OVRo4F3jFEps-GKFZgNC0-jI-6ClvPFf/view?usp=sharing 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
